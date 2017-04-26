@@ -1,5 +1,5 @@
 {
-    "name": "AleksandrKuporosov/transcoder",
+    "name": "aleksandr-kuporosov/transcoder ",
     "description": "Tools to transcoding/encoding audio or video, inspect and convert media formats.",
     "type": "library",
     "license": "MIT",
