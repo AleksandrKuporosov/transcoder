@@ -1,5 +1,5 @@
 {
-    "name": "arhitector/jumper",
+    "name": "AleksandrKuporosov/transcoder",
     "description": "Tools to transcoding/encoding audio or video, inspect and convert media formats.",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Dmitry Arhitector",
             "email": "dmitry.arhitector@yandex.ru"
+        },
+        {
+            "name": "Alexander Kuporosov",
+            "email": "cca.alexk@gmail.com"
         }
     ],
 	"autoload": {
